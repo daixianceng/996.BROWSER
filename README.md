@@ -32,7 +32,7 @@
 
 |浏览器|公司|平台|下载地址|
 |---|---|---|---|
-|Chrome|Google Inc.|Windows|https://www.google.cn/chrome/|
+|Chrome|Google Inc.|Windows、Android、iPhone、iPad|https://www.google.cn/chrome/、国内安卓市场、AppStore|
 |Chromium|开源（谷歌）|Linux|仓库安装（apt-get、yum、dnf 等）|
 |Edge|微软公司|Windows|系统自带|
 |Firefox|开源（Mozilla 社区）|Windows、Linux、Android|https://www.mozilla.org/zh-CN/firefox/|
